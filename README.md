@@ -5,7 +5,7 @@ Tribute Page built in Html and Css
 
 This was a website built to showcase my technical skills, web design skills.
 
-The site is live <a href="https://himanshuranjan977.github.io/OIBSIP_L2_Task02/" target="_blank">here</a>
+The site is live <a href="https://mrinal091.github.io/OIBSIP_L2_Task02/" target="_blank">here</a>
 
 
 ## Project timeline and technologies used
@@ -22,5 +22,5 @@ Build a Responsive website in a weak to showcase the following:
 * Git
 * GitHub
 
-Name : Himanshu Ranjan 
+Name : Mrinal
 
